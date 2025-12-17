@@ -1,4 +1,4 @@
-li<h1 align="center">🚀 Olá, eu sou o Arthur Rodrigues! </h1>
+<h1 align="center">🚀 Olá, eu sou o Arthur Rodrigues! </h1>
 
 <p align="center">
   👨🏻‍💻 <strong>Estudante de Programação</strong> | 💪 <strong>Apaixonado por Tecnologia e Musculação</strong> | 🎮 <strong>Gamer nas horas vagas</strong>
